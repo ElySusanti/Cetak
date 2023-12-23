@@ -27,10 +27,10 @@
                 <hr style="border: 2px black; border-style: dashed">
             </div>
             <div class="row">
-                <div class="col-md-2">
+                <div class="col">
                     <p class="fst-normal">No. CM</p>
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-3">
                     <p class="fw-bolder">: <?php echo $json['no_registration']; ?></p>
                 </div>
                 <div class="col">
