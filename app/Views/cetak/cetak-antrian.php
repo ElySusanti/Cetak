@@ -54,7 +54,7 @@
     <style>
         @media print {
             @page {
-                margin: none;
+                margin: 20px;
             }
         }
     </style>
